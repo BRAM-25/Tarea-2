@@ -1,5 +1,5 @@
 //Abraham Zuñiga
-// Ejercicio1
+// Ejercicio3
 //Código en C que convierte una cantidad en dólares a pesos.
 
 #include <stdio.h>
