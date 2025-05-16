@@ -6,7 +6,6 @@
 
 int main() 
 {
-
     int n;
     long long producto = 1;
 
