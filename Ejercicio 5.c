@@ -1,5 +1,5 @@
 //Abraham Zuñiga
-// Ejercicio1
+// Ejercicio5
 //Descuento del 8% si la compra del cliente es superior a $2,500.
 
 #include <stdio.h>
